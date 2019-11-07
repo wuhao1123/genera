@@ -30,8 +30,8 @@ public class Swagger2 {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("hanku activity api")
-                .description("翰库springboot 开业活动接口文档")
+                .title("demo api")
+                .description("demo接口文档")
                 .version("1.0.0").build();
     }
 }
