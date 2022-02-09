@@ -24,7 +24,7 @@
         <swagger.version>2.6.1</swagger.version>
         <protostuff.version>1.6.2</protostuff.version>
         <aspectj.version>1.9.4</aspectj.version>
-        <shiro.version>1.4.1</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <shiroredis.version>3.2.3</shiroredis.version>
     </properties>
 
