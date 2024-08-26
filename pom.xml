@@ -21,7 +21,7 @@
         <mybatisplus.version>3.2.0</mybatisplus.version>
         <velocity.version>2.0</velocity.version>
         <emoij.version>0.0.1</emoij.version>
-        <swagger.version>2.6.1</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
         <protostuff.version>1.6.2</protostuff.version>
         <aspectj.version>1.9.4</aspectj.version>
         <shiro.version>1.4.1</shiro.version>
